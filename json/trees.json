@@ -1,0 +1,454 @@
+{ 
+    "Languages": [
+        "Arabic",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Simplified Chinese",
+        "Spanish",
+        "Thai",
+        "Traditional Chinese",
+        "Turkish"
+    ],
+    "6th Anniversary Cake Tree": [
+        "الذكرى 6 شجرة الكيك",
+        "tortenbaum zum 6. jahrestag",
+        "6th anniversary cake tree",
+        "6° aniversario árbol de pastel"
+    ],
+    "Apple Tree": [
+        "شجرة تفاح",
+        "apfelbaum",
+        "apple tree",
+        "manzano"
+    ],
+    "Ball Cactus": [
+        "كرة الصبار",
+        "kugelkaktus",
+        "ball cactus",
+        "cactus bola"
+    ],
+    "Bamboo": [
+        "بامبو",
+        "bambus",
+        "bamboo",
+        "bambú"
+    ],
+    "Banana": [
+        "شجرة موز",
+        "banane",
+        "banana",
+        "plátano"
+    ],
+    "Baobab": [
+        "شجرة الباوباب",
+        "baobab",
+        "baobab",
+        "baobab"
+    ],
+    "Bear's Paw": [
+        "مخلب الدب",
+        "bärentatze",
+        "bear's paw",
+        "pata de oso"
+    ],
+    "Black Forest Cake": [
+        "كيكة الغابة السوداء",
+        "schwarzwälder kirschtorte",
+        "black forest cake",
+        "pastel de la selva negra"
+    ],
+    "Blue Flower": [
+        "الزهرة الزرقاء",
+        "blaue blume",
+        "blue flower",
+        "flor azul"
+    ],
+    "Blue Oak Tree": [
+        "شجرة بلوط زرقاء",
+        "blaue eiche",
+        "blue oak tree",
+        "roble azul"
+    ],
+    "Blueberry Cake": [
+        "بلو بري كيك",
+        "heidelbeertorte",
+        "blueberry cake",
+        "pastel de arándano"
+    ],
+    "Cactus": [
+        "صبار",
+        "kaktus",
+        "cactus",
+        "cactus"
+    ],
+    "Cake Tree": [
+        "شجرة الكيك",
+        "tortenbaum",
+        "cake tree",
+        "árbol de pastel"
+    ],
+    "Camellia": [
+        "كاميليا",
+        "kamelie",
+        "camellia",
+        "camellia",
+        "камелия"
+    ],
+    "Candy Tree": [
+        "شجرة الكيك",
+        "süßigkeitenbaum",
+        "candy tree",
+        "árbol de caramelo"
+    ],
+    "Carnation": [
+        "زهرة القرنفل",
+        "nelke",
+        "carnation",
+        "clavel"
+    ],
+    "Cat-tail Willow": [
+        "ذيل القطة",
+        "salix argyracea",
+        "cat-tail willow",
+        "sauce de cola de gato"
+    ],
+    "Celestial Tree": [
+        "الشجرة السماوية",
+        "himmlischer baum",
+        "celestial tree",
+        "árbol celestial"
+    ],
+    "Cherry Blossom": [
+        "شجرة الكرز",
+        "kirschblüte",
+        "cherry blossom",
+        "flor de cerezo"
+    ],
+    "Cherry Cheese Cake": [
+        "شيري تشيز كيك",
+        "kirsch-käsekuchen",
+        "cherry cheese cake",
+        "pastel de queso y cerezas"
+    ],
+    "Chinese Bamboo": [
+        "بامبو صيني",
+        "chinesischer bambus",
+        "año nuevo de bambú",
+        "chinese bamboo"
+    ],
+    "Chinese Pine Tree": [
+        "شجرة صنوبر صينية",
+        "chinesische kiefer",
+        "chinese pine tree",
+        "pino chino"
+    ],
+    "Chocolate Strawberry Cake": [
+        "كيك شوكولاتة فراولة",
+        "schokotorte mit erdbeeren",
+        "chocolate strawberry cake",
+        "pastel de chocolate y fresas"
+    ],
+    "Coconut Tree": [
+        "شجرة جوز هند",
+        "kokospalme",
+        "coconut tree",
+        "cocotero"
+    ],
+    "Cuckoo Clock": [
+        "ساعة الكوكو",
+        "kuckucksuhr",
+        "cuckoo clock",
+        "reloj de cuco"
+    ],
+    "Doggo Tree": [
+        "شجرة دوجو",
+        "hundebaum",
+        "doggo tree",
+        "árbol perrito"
+    ],
+    "Earth Day Tree": [
+        "شجرة يوم الأرض",
+        "erdbaum",
+        "earth day tree",
+        "árbol del día de tierra"
+    ],
+    "Flourishing Grass": [
+        "عشب مزدهر",
+        "blühendes gras",
+        "flourishing grass",
+        "hierba floreciente"
+    ],
+    "Flower Tree": [
+        "شجرة زهور",
+        "blumenbaum",
+        "flower tree",
+        "árbol con flores"
+    ],
+    "Forest Spirit": [
+        "روح Forest",
+        "der forest spirit",
+        "espíritu del bosque",
+        "forest spirit"
+    ],
+    "Four-Leaf Clover": [
+        "زهرة رباعية",
+        "vierblättriges kleeblatt",
+        "four-leaf clover",
+        "trébol de cuatro hojas"
+    ],
+    "Ghost Mushroom": [
+        "ماشروم الشبح",
+        "geisterpilz",
+        "champiñón fantasma",
+        "ghost mushroom"
+    ],
+    "Ginkgo": [
+        "جنكو",
+        "gingko",
+        "ginkgo",
+        "ginkgo"
+    ],
+    "Kitty": [
+        "قطة",
+        "kätzchen",
+        "gatito",
+        "kitty"
+    ],
+    "Lemon Cake": [
+        "كيك ليمون",
+        "zitronentorte",
+        "lemon cake",
+        "pastel de limón"
+    ],
+    "Lemon Tree": [
+        "شجرة ليمون",
+        "zitronenbaum",
+        "lemon tree",
+        "limonero"
+    ],
+    "Lily Flower": [
+        "زهرة الزنبق",
+        "lilien blume",
+        "lily flower",
+        "flor lily",
+        "цветок лилия"
+    ],
+    "Lover Tree": [
+        "شجرة المحبين",
+        "baum der liebenden",
+        "arbol de amantes",
+        "lover tree"
+    ],
+    "Maple": [
+        "شجرة المابل",
+        "ahorn",
+        "arce",
+        "maple"
+    ],
+    "Matcha Azuki Cake": [
+        "ماتشا أوزكي كيك",
+        "matchakuchen mit azuki-creme",
+        "matcha azuki cake",
+        "pastel de macha y judías roja"
+    ],
+    "Moon Tree": [
+        "شجرة القمر",
+        "mondbaum",
+        "moon tree",
+        "árbol de la luna"
+    ],
+    "Mushroom": [
+        "مشروم",
+        "pilz",
+        "mushroom",
+        "seta"
+    ],
+    "Nest": [
+        "عشب مزدهر",
+        "nest",
+        "nest",
+        "nido"
+    ],
+    "Oak Tree": [
+        "شجرة بلوط",
+        "eiche",
+        "oak tree",
+        "roble"
+    ],
+    "Octopus": [
+        "اخطبوط",
+        "oktopus",
+        "octopus",
+        "pulpo"
+    ],
+    "Pink Oak Tree": [
+        "شجرة بلوط بنك",
+        "rosa eiche",
+        "pink oak tree",
+        "roble rosa"
+    ],
+    "Plum Blossom": [
+        "زهرة البرقوق",
+        "pflaumenblüte",
+        "flor de ciruelo",
+        "plum blososm",
+        "цветение сливы"
+    ],
+    "Pumpkin": [
+        "قرع عسلي",
+        "kürbis",
+        "calabaza",
+        "pumpkin"
+    ],
+    "Purple Oak Tree": [
+        "شجرة بلوط بنفسجي",
+        "lila eiche",
+        "purple oak tree",
+        "roble morado"
+    ],
+    "Rafflesia": [
+        "رافليسيا",
+        "rafflesie",
+        "rafflesia",
+        "rafflesia"
+    ],
+    "Rainbow Flower": [
+        "زهرة قوس قزح",
+        "regenbogen-blume",
+        "flor arco iris",
+        "rainbow flower"
+    ],
+    "Rose": [
+        "ورد",
+        "rose",
+        "rose",
+        "rosa"  
+    ],
+    "Scarecrow": [
+        "خيال مآتة",
+        "vogelscheuche",
+        "scarecrow",
+        "espantapájaros"
+    ],
+    "Space Tree": [
+        "شجرة الفضاء",
+        "weltraumbaum",
+        "space tree",
+        "árbol espacial"
+    ],
+    "Star Coral": [
+        "نجمة المرجان",
+        "sternkoralle",
+        "star coral",
+        "coral estrella"
+    ],
+    "Starburst Tree": [
+        "الشجرة النجمية",
+        "sternenstaub-baum",
+        "starburst tree",
+        "árbol de estallido"
+    ],
+    "Starry Tree": [
+        "شجرة النجوم",
+        "sternhimmelbaum",
+        "starry tree",
+        "árbol de cielo estrellado"
+    ],
+    "Strawberry Chiffon Cake": [
+        "شيفون فراولة كيك",
+        "erdbeer-chiffon",
+        "strawberry chiffon cake",
+        "pastel chiffon con fresas"  
+    ],
+    "Sundae Tree": [
+        "شجرة مثلجات",
+        "eisbecher-baum",
+        "sundae tree",
+        "árbol de helado"
+    ],
+    "Sunflower": [
+        "عباد الشمس",
+        "sonnenblume",
+        "sunflower",
+        "girasol"    
+    ],
+    "Tiramisu": [
+        "تيراميسو",
+        "tiramisu",
+        "tiramisu",
+        "tiramisú"
+    ],
+    "Treehouse": [
+        "منزل فوق الشجرة",
+        "baumhaus",
+        "treehouse",
+        "casa de árbol"
+    ],
+    "Triplets": [
+        "ثلاثة توائم",
+        "drillinge",
+        "triplets",
+        "trillizo"    
+    ],
+    "Tulip": [
+        "توليب",
+        "tulpe",
+        "tulip",
+        "tulipán",
+        "тюльпан"
+    ],
+    "Twilight Guardian": [
+        "حارس الشفق",
+        "twilight guardian",
+        "twilight guardian",
+        "guardián del crepúsculo" 
+    ],
+    "Unicorn Tree": [
+        "شجرة اليونيكورن",
+        "einhornbaum",
+        "unicorn tree",
+        "árbol de unicornio"
+    ],
+    "Water Spirit": [
+        "روح الماء",
+        "wassergeist",
+        "water spirit",
+        "espíritu del agua"  
+    ],
+    "Watermelon": [
+        "بطيخ",
+        "wassermelone",
+        "watermelon",
+        "sandía"       
+    ],
+    "Weeping Willow": [
+        "شجرة الصفصاف",
+        "trauerweide",
+        "weeping willow",
+        "sauce llorón"  
+    ],
+    "Wisteria": [
+        "ويستريا",
+        "blauregen",
+        "wisteria",
+        "glicinia"     
+    ],
+    "Witch Mushroom": [
+        "الماشروم الساحرة",
+        "hexenpilz",
+        "witch mushroom",
+        "seta bruja"
+    ],
+    "Yellow Oak Tree": [
+        "شجرة بلوط صفراء",
+        "gelbe eiche",
+        "yellow oak tree",
+        "roble amarillo"    
+    ]
+}
