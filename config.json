@@ -1,3 +1,12 @@
 {
-    "prefix": "!"
+    "client": {
+        "prefix": "!"
+    },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "usbw",
+        "port": 3307,
+        "database": "test"
+    }
 }
